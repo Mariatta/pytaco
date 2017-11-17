@@ -2,7 +2,7 @@
 #  -*- coding: utf-8 -*-
 """How many tacos for a meetup?"""
 
-__version__ = "1.0.2.dev"
+__version__ = "1.0.2"
 
 
 def main():
