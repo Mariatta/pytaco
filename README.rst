@@ -13,7 +13,7 @@ Requires Python 3.6
 
 ::
 
-   pip3 install pytaco
+   python3 -m pip install pytaco
 
 Once installed, on the command line, type::
 
